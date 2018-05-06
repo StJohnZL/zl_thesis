@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/realtime_recommend/realtime_recommend.iml" filepath="$PROJECT_DIR$/realtime_recommend/realtime_recommend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thesis_project.iml" filepath="$PROJECT_DIR$/thesis_project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user_portrait/user_portrait.iml" filepath="$PROJECT_DIR$/user_portrait/user_portrait.iml" />
+      <module fileurl="file://$PROJECT_DIR$/video_feature/video_feature.iml" filepath="$PROJECT_DIR$/video_feature/video_feature.iml" />
+    </modules>
+  </component>
+</project>
