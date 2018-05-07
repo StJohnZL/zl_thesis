@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/user_portrait/java.iml" filepath="$PROJECT_DIR$/user_portrait/java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_unitls/java_unitls.iml" filepath="$PROJECT_DIR$/java_unitls/java_unitls.iml" />
       <module fileurl="file://$PROJECT_DIR$/realtime_recommend/realtime_recommend.iml" filepath="$PROJECT_DIR$/realtime_recommend/realtime_recommend.iml" />
       <module fileurl="file://$PROJECT_DIR$/thesis_project.iml" filepath="$PROJECT_DIR$/thesis_project.iml" />
       <module fileurl="file://$PROJECT_DIR$/user_portrait/user_portrait.iml" filepath="$PROJECT_DIR$/user_portrait/user_portrait.iml" />
